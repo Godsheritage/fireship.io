@@ -1,5 +1,5 @@
 ---
-title: YOUR_NAME\S
+title: YOUR_NAMES
 date: {{ .Date }}
 draft: true
 
